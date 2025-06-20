@@ -1,4 +1,11 @@
 {
+  "name": "proyecto-mongodb",
+  "version": "1.0.0",
+  "description": "Proyecto con Express y MongoDB Atlas",
+  "main": "Clase.js",
+  "scripts": {
+    "start": "node Clase.js"
+  },
   "dependencies": {
     "express": "^5.1.0",
     "mongodb": "^6.17.0",
